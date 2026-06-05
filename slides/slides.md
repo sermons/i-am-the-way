@@ -1,8 +1,8 @@
-<!-- .slide: <%= bg("unsplash-oQl0eVYd_n8-sea_sky_telaviv.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-nj1bqRzClq8-snowy_road_stars.jpg") %> id="title" -->
 ## I AM: the 
 # Way, Truth and Life
 ## John 14:1-10
-[Tel Aviv-Yafo. Joseph Barrientos](https://unsplash.com/photos/oQl0eVYd_n8 "caption")
+[Ricardo Rocha. Lagoa Comprida, Portugal](https://unsplash.com/photos/nj1bqRzClq8 "caption")
 
 >>>
 
@@ -23,7 +23,7 @@
 >>>
 
 ---
-<!-- .slide: <%= bg("unsplash-oQl0eVYd_n8-sea_sky_telaviv.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-nj1bqRzClq8-snowy_road_stars.jpg") %> id="outline" class="outline" -->
 ## Way, Truth, and Life (Jn14)
 1. The House [(v1-3)](# "ref")
 1. The Way [(v4-6)](# "ref")
@@ -52,6 +52,13 @@ that **where I am** you may be also.
 <!-- .element: class="r-fit-text" -->
 
 ---
+<!-- .slide: <%= bg("unsplash-nj1bqRzClq8-snowy_road_stars.jpg") %> class="outline" -->
+## Way, Truth, and Life (Jn14)
+1. The House [(v1-3)](# "ref")
+1. **The Way** [(v4-6)](# "ref")
+1. The Father [(v7-10)](# "ref")
+
+---
 "And you know the **way** to where I am going.”
 
 Thomas said to him, “Lord, we do not know <br/>
@@ -63,7 +70,8 @@ How can we know the **way**?”
 ---
 Jesus said to him, <br/>
 “I am the **way**, and the **truth**, and the **life**. <br/>
-No one comes to the Father except **through me**."
+No one comes to the Father <br/>
+except **through me**."
 
 [John 14:6 (ESV)](# "ref")
 
@@ -73,9 +81,17 @@ No one comes to the Father except **through me**."
 <!-- .element: class="r-fit-text" -->
 
 ---
+<!-- .slide: <%= bg("unsplash-nj1bqRzClq8-snowy_road_stars.jpg") %> class="outline" -->
+## Way, Truth, and Life (Jn14)
+1. The House [(v1-3)](# "ref")
+1. The Way [(v4-6)](# "ref")
+1. **The Father** [(v7-10)](# "ref")
+
+---
 If you had **known me**, <br/>
 you would have known **my Father** also.<br/>
-From now on you do **know** him and have **seen** him.”
+From now on you do **know** him <br/>
+and have **seen** him.”
 
 [John 14:7 (ESV)](# "ref")
 
@@ -94,15 +110,17 @@ and you still do not **know me**, Philip?
 Whoever has seen **me** has seen the **Father**. <br/>
 How can you say, ‘**Show us** the Father’? 
 
-Do you not believe that I am in the Father <br/>
-and the Father is in me? 
+Do you not believe that I am **in the Father** <br/>
+and the Father is **in me**? 
 
 [John 14:9-10 (ESV)](# "ref")
 
 ---
 The words that I say to you <br/>
-I do not speak on my own **authority**, <br/>
-but the **Father** who dwells in me does his works.
+I do not speak on my own **authority**, 
+
+but the **Father** who dwells in me <br/>
+does his works.
 
 [John 14:10 (ESV)](# "ref")
 
