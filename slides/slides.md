@@ -275,6 +275,7 @@ shall **never** die.
 1. **The Father** [(v7-10)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
 If you had **known me**, <br/>
 you would have known **my Father** also.
 
@@ -282,6 +283,7 @@ From now on you do **know** him <br/>
 and have **seen** him.”
 
 [John 14:7 (ESV)](# "ref")
+[Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
 
 >>>
 + 8:19 to disbelieving Jews:
@@ -290,6 +292,7 @@ and have **seen** him.”
 + But: now you do know Father
 
 ---
+<!-- .slide: <%= bg("unsplash-UOwvwZ9Dy6w-hold_hands.jpg") %> -->
 Philip said to him, <br/>
 “Lord, **show us** the Father, <br/>
 and it is **enough** for us.” 
@@ -299,6 +302,7 @@ Jesus said to him, <br/>
 and you still do not **know me**, Philip? 
 
 [John 14:8-9 (ESV)](# "ref")
+[Nancy, France. Rémi Walle](https://unsplash.com/photos/UOwvwZ9Dy6w "caption")
 
 >>>
 + Philip:
@@ -311,6 +315,7 @@ and you still do not **know me**, Philip?
   + Jesus' role + **ID**
 
 ---
+<!-- .slide: <%= bg("stocksnap-36K89610LZ-cross_mtn_lake.jpg") %> -->
 Whoever has seen **me** has seen the **Father**. <br/>
 How can you say, ‘**Show us** the Father’? 
 
@@ -329,6 +334,7 @@ and the Father is **in me**?
 + Immanuel, Word made flesh
 
 ---
+<!-- .slide: <%= bg("unsplash-6yZ5CWMnDNw-beach_pebbles.jpg") %> -->
 The words that I say to you <br/>
 I do not speak on my own **authority**, 
 
@@ -336,6 +342,7 @@ but the **Father** who dwells in me <br/>
 does his works.
 
 [John 14:10 (ESV)](# "ref")
+[Anas Belmadani](https://unsplash.com/photos/6yZ5CWMnDNw "caption")
 
 >>>
 + ch8 (light): 2 witnesses
