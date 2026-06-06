@@ -286,9 +286,13 @@ and you still do not **know me**, Philip?
 
 >>>
 + Philip:
- + ch1: to Nathanael: come and see
- + ch12: brought Gr to Jesus
- + Ac8: Samaria, Ethiopia
+ + ch1: to Nathanael: **come and see**
+ + ch12: **brought** Gr to Jesus
+ + Ac8: Samaria, **Ethiopian** eunuch
++ the "come and see" evangelist
+  + messenger, go-between
++ Is Jesus only a **messenger** from God?
+  + Jesus' role + **ID**
 
 ---
 Whoever has seen **me** has seen the **Father**. <br/>
@@ -299,6 +303,15 @@ and the Father is **in me**?
 
 [John 14:9-10 (ESV)](# "ref")
 
+>>>
++ discip knew **Jesus**, lived w/3yrs
+  + but knew of **Father** only abstractly
+  + stories in OT, far-off holiness
++ we talk of **God** often
+  + prayer, morals, justice
+  + but forget historicity of **Jesus**
++ Immanuel, Word made flesh
+
 ---
 The words that I say to you <br/>
 I do not speak on my own **authority**, 
@@ -308,8 +321,25 @@ does his works.
 
 [John 14:10 (ESV)](# "ref")
 
+>>>
++ ch8 (light): 2 witnesses
+  + own testimony true bc
+  + knows where comes + goes
++ Father's testimony:
+  + miracles of healing
+  + resurrection
++ Works **continue** in us (v12)
+  + not bc **strength** of faith
+  + but **object** of faith
++ "in my name": not magic phrase
+  + but acc his **truth**
++ (v16) Advocate: Spirit of truth
+
 ---
 <!-- .slide: data-background="white" -->
 # Do I still **yearn** <br/> to see God?
 <!-- .element: class="r-fit-text" -->
 
+>>>
++ Philip: "come and see" evangelist
++ truth+reality of Immanuel
