@@ -29,6 +29,11 @@
 1. The Way [(v4-6)](# "ref")
 1. The Father [(v7-10)](# "ref")
 
+>>>
++ Comfort 
++ Guidance 
++ Glory 
+
 ---
 <!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> -->
 Where I am going you **cannot follow** me now, <br/>
