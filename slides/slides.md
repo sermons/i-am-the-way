@@ -30,6 +30,7 @@
 1. The Father [(v7-10)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> -->
 Where I am going you **cannot follow** me now, <br/>
 but you will follow **afterward**.
 
@@ -37,6 +38,7 @@ Truly, truly, I say to you, the rooster will <br/>
 not crow till you have **denied me** three times.
 
 [John 13:36,38 (ESV)](# "ref")
+[Alex Jones](https://unsplash.com/photos/p0W9Q9gei4g "caption")
 
 >>>
 + Jesus **leaving**, and
@@ -48,10 +50,12 @@ not crow till you have **denied me** three times.
 + Jesus notices this, **comforts**:
 
 ---
+<!-- .slide: <%= bg("unsplash-8wUVsR-w994-curtain.jpg") %> -->
 Let not your hearts be **troubled**. <br/>
 Believe in God; **believe** also in me. 
 
 [John 14:1 (ESV)](# "ref")
+[Dozen](https://unsplash.com/photos/8wUVsR-w994 "caption")
 
 >>>
 + "troubled": **shaken**, unsettled, confused
@@ -70,6 +74,7 @@ Believe in God; **believe** also in me.
 + Absence only **temporary**:
 
 ---
+<!-- .slide: <%= bg("unsplash-cgPxN5Y27pA-cathedral.jpg") %> -->
 In my Father's **house** are many rooms. <br/>
 If it were not so, would I have told you <br/>
 that I go to **prepare** a place for you?
@@ -79,6 +84,7 @@ I will **come again** and will take you to myself, <br/>
 that **where I am** you may be also. 
 
 [John 14:2-3 (ESV)](# "ref")
+[Dan Edwards](https://unsplash.com/photos/cgPxN5Y27pA "caption")
 
 >>>
 + house w/many rooms: **abundance**
@@ -94,6 +100,7 @@ that **where I am** you may be also.
 + **Peter**: did lay down his life
 
 ---
+<!-- .slide: <%= bg("unsplash--lYk9rDI2UU-autumn_forest_beams.jpg") %> -->
 For this light **momentary affliction** <br/>
 is preparing for us an eternal <br/>
 **weight of glory** beyond all comparison, 
@@ -102,6 +109,7 @@ as we look not to the things that are **seen** <br/>
 but to the things that are **unseen**.
 
 [2 Corinthians 4:17-18 (ESV)](# "ref")
+[Ricardo Gomez Angel](https://unsplash.com/photos/-lYk9rDI2UU "caption")
 
 >>>
 + **suffering** for sake of gospel
@@ -137,6 +145,7 @@ but to the things that are **unseen**.
   + What **steps** do we take?
 
 ---
+<!-- .slide: <%= bg("unsplash-DiKkJKvDi64-tree_road.jpg") %> -->
 "And you know the **way** to where I am going.”
 
 Thomas said to him, “Lord, we do not know <br/>
@@ -144,6 +153,7 @@ Thomas said to him, “Lord, we do not know <br/>
 How can we know the **way**?” 
 
 [John 14:4-5 (ESV)](# "ref")
+[Venray, Netherlands. Michael Coury](https://unsplash.com/photos/DiKkJKvDi64 "caption")
 
 >>>
 + Thomas: **literal**-minded, no nonsense
@@ -156,12 +166,14 @@ How can we know the **way**?”
   + let me choose the **means**"
 
 ---
+<!-- .slide: <%= bg("unsplash-bUhzlj3gGso-mtns_clouds.jpg") %> -->
 Jesus said to him, <br/>
 “I am the **way**, and the **truth**, and the **life**. <br/>
 No one comes to the Father <br/>
 except **through me**."
 
 [John 14:6 (ESV)](# "ref")
+[Vietnam. Andreas Kind](https://unsplash.com/photos/bUhzlj3gGso "caption")
 
 >>>
 + cannot **bypass** Jesus to obtain eternal life
@@ -172,6 +184,7 @@ except **through me**."
 + cf ch10:
 
 ---
+<!-- .slide: <%= bg("unsplash-NVnU0WIhC28-door_detail.jpg") %> -->
 I am the **door**.  <br/>
 If anyone **enters** by me,
 
@@ -180,6 +193,7 @@ and will go **in and out** <br/>
 and find **pasture**. 
 
 [John 10:9 (ESV)](# "ref")
+[Daniel von Appen](https://unsplash.com/photos/NVnU0WIhC28 "caption")
 
 >>>
 + goal is not **pasture**, nor sheepfold
@@ -192,6 +206,7 @@ and find **pasture**.
 + **truth**:
 
 ---
+<!-- .slide: <%= bg("unsplash-1Z2niiBPg5A-mist_moor.jpg") %> -->
 If you **abide** in my word, <br/>
 you are truly my **disciples**, 
 
@@ -199,6 +214,7 @@ and you will know the **truth**, <br/>
 and the truth will set you **free**.
 
 [John 8:31-32 (ESV)](# "ref")
+[Paul Morris](https://unsplash.com/photos/1Z2niiBPg5A "caption")
 
 >>>
 + true **freedom**: not selfishness
