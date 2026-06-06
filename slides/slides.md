@@ -184,6 +184,11 @@ and find **pasture**.
 >>>
 + goal is not **pasture**, nor sheepfold
   + just stay close to **Shepherd**
++ Discipleship is in **everyday** habits
+  + going in+out
+  + each **step** along road
++ **easier** w/practise
+  + but also new **challenges**
 + **truth**:
 
 ---
@@ -194,6 +199,24 @@ and you will know the **truth**, <br/>
 and the truth will set you **free**.
 
 [John 8:31-32 (ESV)](# "ref")
+
+>>>
++ true **freedom**: not selfishness
+  + but freedom from **sin**
++ only comes from **truth**:
+  + obj **reality**
+  + who **we** are, how **designed**
+  + what is **right** behaviour
++ freedom of **speech**, opinion
+  + "sovereign citizens"
+  + "reject your reality, subst own"
++ Don't use freedom as **cover** for evil,
+  + but live as **servant** of God (1Pet2)
++ freedom comes from **truth**,
+  + truth from **discipleship**
+  + discipleship from **Word**
++ **abide**: not just 1-time commit
+  + remain in the **vine** (ch15)
 
 ---
 <!-- .slide: <%= bg("unsplash-Ni4NgA64TFQ-misty_mtn_refl.jpg") %> -->
@@ -209,6 +232,10 @@ shall **never** die.
 [Alberto Restifo](https://unsplash.com/photos/Ni4NgA64TFQ "caption")
 
 >>>
++ Eternal life is not only in **heaven**
+  + resurr **body**, new heaven+earth
++ But **renewal** starts even in **this** life
+  + When we **follow** Jesus
 
 ---
 <!-- .slide: data-background="white" -->
@@ -219,6 +246,10 @@ shall **never** die.
 + How much was by **decision** (mine or others')
   + How much was **random** chance
   + How much was God's **providence**
++ Review **past**, take heart for **future**
+  + **progress**: cut trees
++ What **invitation** from Jesus?
+  + **Way**, truth, life
 
 ---
 <!-- .slide: <%= bg("unsplash-nj1bqRzClq8-snowy_road_stars.jpg") %> class="outline" -->
@@ -237,7 +268,9 @@ and have **seen** him.”
 [John 14:7 (ESV)](# "ref")
 
 >>>
-+ 8:19 You know neither me nor my Father. If you knew me, you would know my Father also.
++ 8:19 to disbelieving Jews:
+  + You know neither me nor my Father. 
+  + If you knew me, you would know my Father also.
 + But: now you do know Father
 
 ---
